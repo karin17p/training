@@ -13,6 +13,9 @@
 - [2753 윤년](https://www.acmicpc.net/problem/2753)
     - [풀이](https://www.acmicpc.net/source/101855418)
 
+- [2754 학점계산](https://www.acmicpc.net/problem/2754)
+    - [풀이](https://www.acmicpc.net/source/102007905)
+
 - [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
     - [풀이](https://www.acmicpc.net/source/101938697)
 
