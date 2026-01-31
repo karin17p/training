@@ -10,6 +10,9 @@
 - [2530 인공지능 시계](https://www.acmicpc.net/problem/2530)
     - [풀이](https://www.acmicpc.net/source/101859418)
 
+- [2566 최댓값](https://www.acmicpc.net/problem/2566)
+    -[풀이](https://www.acmicpc.net/source/102488224)
+
 - [2753 윤년](https://www.acmicpc.net/problem/2753)
     - [풀이](https://www.acmicpc.net/source/101855418)
 
@@ -27,6 +30,9 @@
 
 - [10807 개수세기](https://www.acmicpc.net/problem/10807)
     - [풀이](https://www.acmicpc.net/source/101895053)
+
+- [10811 바구니 뒤집기](https://www.acmicpc.net/problem/10811)
+    -[풀이](https://www.acmicpc.net/source/102487951)
 
 - [10818 최소, 최대](https://www.acmicpc.net/problem/10818)
     - [풀이](https://www.acmicpc.net/source/101892768)
@@ -54,6 +60,9 @@
 
 - [18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
     - [풀이](https://www.acmicpc.net/source/101819674)
+
+- [25206 너의 평점은](https://www.acmicpc.net/problem/25206)
+    -[풀이](https://www.acmicpc.net/source/102488403)
 
 - [25304 영수증](https://www.acmicpc.net/problem/25304)
     - [풀이](https://www.acmicpc.net/source/101858749)
