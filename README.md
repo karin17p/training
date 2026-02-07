@@ -11,7 +11,10 @@
     - [풀이](https://www.acmicpc.net/source/101859418)
 
 - [2566 최댓값](https://www.acmicpc.net/problem/2566)
-    -[풀이](https://www.acmicpc.net/source/102488224)
+    - [풀이](https://www.acmicpc.net/source/102488224)
+
+- [2739 구구단](https://www.acmicpc.net/problem/2739)
+    - [풀이](https://www.acmicpc.net/source/102715634)
 
 - [2753 윤년](https://www.acmicpc.net/problem/2753)
     - [풀이](https://www.acmicpc.net/source/101855418)
@@ -27,6 +30,12 @@
 
 - [8393 합](https://www.acmicpc.net/problem/8393)
     - [풀이](https://www.acmicpc.net/source/101854922)
+
+- [10171 고양이](https://www.acmicpc.net/problem/10171)
+    - [풀이](https://www.acmicpc.net/source/102712613)
+
+- [10172 개](https://www.acmicpc.net/problem/10172)
+    - [풀이](https://www.acmicpc.net/source/102715275)
 
 - [10807 개수세기](https://www.acmicpc.net/problem/10807)
     - [풀이](https://www.acmicpc.net/source/101895053)
