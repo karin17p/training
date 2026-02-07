@@ -41,7 +41,7 @@
     - [풀이](https://www.acmicpc.net/source/101895053)
 
 - [10811 바구니 뒤집기](https://www.acmicpc.net/problem/10811)
-    -[풀이](https://www.acmicpc.net/source/102487951)
+    - [풀이](https://www.acmicpc.net/source/102487951)
 
 - [10818 최소, 최대](https://www.acmicpc.net/problem/10818)
     - [풀이](https://www.acmicpc.net/source/101892768)
@@ -71,7 +71,7 @@
     - [풀이](https://www.acmicpc.net/source/101819674)
 
 - [25206 너의 평점은](https://www.acmicpc.net/problem/25206)
-    -[풀이](https://www.acmicpc.net/source/102488403)
+    - [풀이](https://www.acmicpc.net/source/102488403)
 
 - [25304 영수증](https://www.acmicpc.net/problem/25304)
     - [풀이](https://www.acmicpc.net/source/101858749)
