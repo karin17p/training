@@ -7,11 +7,20 @@
 - [1001 A-B](https://www.acmicpc.net/problem/1001)
     - [풀이](https://www.acmicpc.net/source/101820980)
 
+- [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
+    - [풀이](https://www.acmicpc.net/source/102810263)
+
+- [2501 약수 구하기](https://www.acmicpc.net/problem/2501)
+    - [풀이](https://www.acmicpc.net/source/102812334)
+
 - [2530 인공지능 시계](https://www.acmicpc.net/problem/2530)
     - [풀이](https://www.acmicpc.net/source/101859418)
 
 - [2566 최댓값](https://www.acmicpc.net/problem/2566)
     - [풀이](https://www.acmicpc.net/source/102488224)
+
+- [2675 문자열 반복](https://www.acmicpc.net/problem/2675)
+    - [풀이](https://www.acmicpc.net/source/102809723)
 
 - [2739 구구단](https://www.acmicpc.net/problem/2739)
     - [풀이](https://www.acmicpc.net/source/102715634)
@@ -30,6 +39,9 @@
 
 - [8393 합](https://www.acmicpc.net/problem/8393)
     - [풀이](https://www.acmicpc.net/source/101854922)
+
+- [8958 OX퀴즈](https://www.acmicpc.net/problem/8958)
+    - [풀이](https://www.acmicpc.net/source/102807853)
 
 - [10171 고양이](https://www.acmicpc.net/problem/10171)
     - [풀이](https://www.acmicpc.net/source/102712613)
@@ -63,6 +75,9 @@
 
 - [11382 꼬마 정민](https://www.acmicpc.net/problem/11382)
     - [풀이](https://www.acmicpc.net/source/101821139)
+
+- [14215 세 막대](https://www.acmicpc.net/problem/14215)
+    - [풀이](https://www.acmicpc.net/source/102811226)
 
 - [14681 사분면 고르기](https://www.acmicpc.net/problem/14681)
     - [풀이](https://www.acmicpc.net/source/101850209)
