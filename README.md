@@ -16,6 +16,9 @@
 - [2530 인공지능 시계](https://www.acmicpc.net/problem/2530)
     - [풀이](https://www.acmicpc.net/source/101859418)
 
+- [2563 색종이](https://www.acmicpc.net/problem/2563)
+    - [풀이](https://www.acmicpc.net/source/102923470)
+
 - [2566 최댓값](https://www.acmicpc.net/problem/2566)
     - [풀이](https://www.acmicpc.net/source/102488224)
 
@@ -30,6 +33,9 @@
 
 - [2754 학점계산](https://www.acmicpc.net/problem/2754)
     - [풀이](https://www.acmicpc.net/source/102007905)
+
+- [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
+    - [풀이](https://www.acmicpc.net/source/102918433)
 
 - [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
     - [풀이](https://www.acmicpc.net/source/101938697)
